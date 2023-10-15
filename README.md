@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Manasi Kulkarni</h1>
 <h3 align="center">A passionate software developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fassets-v2.lottiefiles.com%2Fa%2Ff75ac2f2-116a-11ee-aa38-a35154041321%2FUTSEH078Aw.gif&tbnid=qQViMd7j3uvKPM&vet=12ahUKEwiIre-vkviBAxVJQGwGHS8vC5UQMyggegUIARDQAQ..i&imgrefurl=https%3A%2F%2Flottiefiles.com%2Fanimations%2Fgirl-on-computer-with-idea-vKx1wtZe5l&docid=dvMN-VLDkQ65xM&w=640&h=640&q=Animated%20coding%20images%20GIF&ved=2ahUKEwiIre-vkviBAxVJQGwGHS8vC5UQMyggegUIARDQAQ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manasisk&label=Profile%20views&color=0e75b6&style=flat" alt="manasisk" /> </p>
 
